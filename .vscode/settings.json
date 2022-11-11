@@ -1,5 +1,10 @@
 {
-    "cSpell.words": [
-        "Контакти"
-    ]
+    "liveSassCompile.settings.formats": [
+    {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": /css,
+            "savePathReplacementPairs": null
+    }
+
 }
